@@ -3,5 +3,5 @@
 ## 数据来源
 RecBole里处理好的ml-100k数据
 
-## MF(Matrix Factorication)矩阵分解算法
+## 1. MF(Matrix Factorication)矩阵分解算法
 参考文献：Matrix Factorization Techniques for Recommender Systems
